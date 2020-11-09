@@ -4,7 +4,7 @@
 
 ### Background on Data
 
-![Infomation%20Regarding%20Dataset..PNG](attachment:Infomation%20Regarding%20Dataset..PNG)
+![Data Background](attachment:Infomation%20Regarding%20Dataset..PNG)
 
 
 ```python
@@ -199,4 +199,4 @@ grouped_cluster=data_clustered.groupby(["Cluster"]).mean().round(2)
 print(grouped_cluster)
 ```
 
-![Credit%20Bank%20Groups.PNG](attachment:Credit%20Bank%20Groups.PNG)
+![Customer Segmentation Chart](attachment:Credit%20Bank%20Groups.PNG)
